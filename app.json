@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TODOLIST",
-    "slug": "TODOLIST",
+    "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4b54825d-712d-4a7c-8ff4-274558fee11d"
+      }
+    },
+    "owner": "iblopez93-team"
   }
 }
